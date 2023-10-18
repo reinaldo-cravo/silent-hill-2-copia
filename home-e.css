@@ -5,9 +5,11 @@
 
 .header {
     display: block;
-    width: auto;
+    
     margin: auto;
     text-align: center;
+    min-width: 320px;
+    max-width: 800px;
    
     
 }
