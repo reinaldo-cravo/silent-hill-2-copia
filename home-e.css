@@ -8,11 +8,13 @@
     width: auto;
     margin: auto;
     text-align: center;
+   
     
 }
 
 body {
     background-image: url(images/back2.jpg);
+    
 }
 
 main {
