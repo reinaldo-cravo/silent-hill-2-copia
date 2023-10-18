@@ -16,7 +16,9 @@
 
 body {
     background-image: url(images/back2.jpg);
-    
+    min-width: 300px;
+    max-width: auto;
+    margin: auto;
 }
 
 main {
