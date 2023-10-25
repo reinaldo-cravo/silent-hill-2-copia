@@ -21,16 +21,27 @@ body {
     max-width: 500px;
     margin: auto;
     
+    
 
 }
 
 
+.menu li{
+    list-style: none;
+    font-weight: bold;
+    background-color: #ff000070;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
 
-
+a {
+    text-decoration: none;
+}
 
 
 .corpo {
-    background-color: rgba(255, 0, 0, 0.438);
+    background-color: #ff000070;
     display: flex;
     flex-direction: column;
     justify-content: center;
